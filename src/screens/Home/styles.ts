@@ -40,7 +40,7 @@ export const styles = StyleSheet.create({
       justifyContent:'center',
    },
    form : {
-      marginTop:24,
+      marginTop:36,
       marginBottom:42,
       width:'100%',
       flexDirection:'row'
